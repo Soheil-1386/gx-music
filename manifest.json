@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "BMW GX Music",
+  "version": "1.0",
+  "description": "Custom BMW sound",
+  "gx_mod": {
+    "background_music": [
+      {
+        "file": "bmw.mp3",
+        "loop": true
+      }
+    ]
+  }
+}
